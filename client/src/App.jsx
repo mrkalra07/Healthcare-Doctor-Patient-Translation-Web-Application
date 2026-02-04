@@ -1,7 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 import axios from "axios";
 
-const API = "http://localhost:5000";
+const API = "https://healthcare-backend-3wfv.onrender.com";
+
 
 const LANGS = [
   { name: "English", code: "en" },

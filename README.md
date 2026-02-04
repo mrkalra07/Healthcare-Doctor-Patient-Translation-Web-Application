@@ -89,13 +89,13 @@ With access to paid LLM-based translation services, the system could achieve hig
 
 ### Backend
 
-cd server
-npm install
-npm run dev
+-cd server
+-npm install
+-npm run dev
 
 ### FRONTEND
-cd client
-npm install
-npm run dev
+-cd client
+-npm install
+-npm run dev
 
 
